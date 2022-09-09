@@ -1,5 +1,5 @@
  //clase principal
- class garaje
+ public class garaje
     {
         //metodo principal
         static void Main(string[] args)
