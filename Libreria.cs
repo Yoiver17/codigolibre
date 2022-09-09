@@ -1,5 +1,5 @@
   //clase coche
-  class Coche
+  public class Coche
     {
         //atributos
         private int _id;
