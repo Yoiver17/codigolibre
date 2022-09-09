@@ -8,10 +8,10 @@
             // definimos una istancia de garaje como coche y la inicializo con unos parametros
             Coche c = new Coche(1, "BMW", "4", 100, 12000);
  
-            // get de precio de coche
+            //  consultar de precio de coche
             Console.WriteLine(c.precio);
  
-            // get de marca de coche
+            // consultar de marca de coche
             Console.WriteLine(c.marca);
  
             // Modifico el precio del coche con el set
