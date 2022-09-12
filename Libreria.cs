@@ -2,10 +2,8 @@
   public class Coche
     {
         //atributos
-        private int _id;
-        private String _marca;
-        private String _modelo;
-        private int _km;
+        private int _id, _km;
+        private String _marca, _modelo; 
         private double _precio;
         
         //constructor
